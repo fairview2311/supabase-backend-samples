@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792985271963,
+      "tag": "20261026032751_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792985273711,
+      "tag": "20261026032753_owner_trigger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792986348644,
+      "tag": "20261026034548_helper_functions",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792986361819,
+      "tag": "20261026034601_rls",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792986727690,
+      "tag": "20261026035207_creator_can_read",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792987306768,
+      "tag": "20261026040146_invitations",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1792987309821,
+      "tag": "20261026040149_accept_invitation",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1792988881961,
+      "tag": "20261026042801_realtime_tasks",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER POLICY "メンバーが読み取れる" ON "workspaces" TO authenticated USING (public.is_workspace_member("workspaces"."id") or (select auth.uid()) = "workspaces"."created_by");
